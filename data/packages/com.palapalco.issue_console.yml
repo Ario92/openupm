@@ -16,7 +16,7 @@ topics:
   - editor-enhancement
   - testing
 hunter: Ario92
-gitTagPrefix: ''
+gitTagPrefix: 'IssueConsole'
 gitTagIgnore: ''
 minVersion: ''
 readme: Dev:Packages/IssueConsole/README.md
