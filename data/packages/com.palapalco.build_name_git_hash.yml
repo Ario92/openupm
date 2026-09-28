@@ -12,7 +12,7 @@ image: ''
 topics:
 - editor-enhancement
 hunter: Ario92
-gitTagPrefix: ''
+gitTagPrefix: 'BuildNameGitHash'
 gitTagIgnore: ''
 minVersion: ''
 readme: Dev:Packages/AddGitHashToBuildName/AddGitHashToBuildName/README.md
